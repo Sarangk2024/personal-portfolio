@@ -4,7 +4,7 @@ This is my personal portfolio website built using **React.js**, showcasing my sk
 
 ## 🚀 Live Demo
 
-👉 [View Live](https://<your-username>.github.io/personal-portfolio)
+👉 [View Live](https://sarangk2024.github.io/personal-portfolio/)
 
 ## 🛠️ Tech Stack
 
